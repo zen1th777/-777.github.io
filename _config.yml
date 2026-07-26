@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default"
 title                    : "我的网站"
 title_separator          : "-"
 name                     : &name "zen1th7"
-description              : &description "普通人"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "普通人" 
 url                      : "https://zen1th777.github.io/"
                                                         
 baseurl                  : "/-777.github.io"
